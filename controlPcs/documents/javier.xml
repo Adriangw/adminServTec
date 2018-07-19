@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<speccydata version="1.32.740" formatversion="2.0" languageID="0" time="20180718T125148" localtime="20180718T095148-0300">
+    <mainsection title="Summary">
+        <section title="Operating System" id="1">
+            <entry title="Windows 10 Pro 64-bit" value="" />
+        </section>
+        <section title="CPU" id="2">
+            <entry title="Intel Core i5 7500 @ 3.40GHz" value="34 °C" />
+            <entry title="Kaby Lake 14nm Technology" value="" />
+        </section>
+        <section title="RAM" id="3">
+            <entry title="8,00GB Single-Channel Unknown @ 1200MHz (17-17-17-39)" value="" />
+        </section>
+        <section title="Motherboard" id="4">
+            <entry title="Gigabyte Technology Co. Ltd. H110M-H-CF (U3E1)" value="28 °C" />
+        </section>
+        <section title="Graphics" id="5">
+            <entry title="T730SH (1024x768@85Hz)" value="" />
+            <entry title="Intel HD Graphics 630 (Gigabyte)" value="" />
+        </section>
+        <section title="Storage" id="6">
+            <entry title="931GB Western Digital WDC WD10EZEX-08WN4A0 (SATA )" value="38 °C" />
+            <entry title="14GB Generic Mass-Storage USB Device (USB )" value="" />
+            <entry title="7GB Verbatim STORE N GO USB Device (USB )" value="" />
+        </section>
+        <section title="Optical Drives" id="7">
+            <entry title="ATAPI iHAS122 F" value="" />
+        </section>
+        <section title="Audio" id="8">
+            <entry title="Realtek High Definition Audio" value="" />
+        </section>
+    </mainsection>
+    <mainsection title="Operating System" id="1">
+        <entry>
+            <entry title="Model" value="Windows 10" />
+            <entry title="Edition" value="Pro" />
+            <entry title="Architecture" value=" 64-bit" />
+            <entry title="Service Pack" value="" />
+        </entry>
+        <entry value="Computer type: Desktop" />
+        <entry value="Installation Date: 18/5/2018 11:30:50 a. m." />
+        <section title="Windows Security Center">
+            <entry title="User Account Control (UAC)" value="Enabled" />
+            <entry title="Notify level" value="0 - Never Notify" />
+            <entry title="Firewall" value="Enabled" />
+        </section>
+        <section title="Windows Update">
+            <entry title="AutoUpdate" value="Not configured" />
+        </section>
+        <section title="Windows Defender">
+            <entry title="Windows Defender" value="Disabled" />
+        </section>
+        <section title="Antivirus">
+            <section title="Windows Defender">
+                <entry title="Antivirus" value="Disabled" />
+                <entry title="Virus Signature Database" value="Up to date" />
+            </section>
+            <section title="360 Total Security">
+                <entry title="Antivirus" value="Enabled" />
+                <entry title="Virus Signature Database" value="Up to date" />
+            </section>
+        </section>
+        <section title=".NET Frameworks installed">
+            <entry title="v4.6 Full" value="" />
+            <entry title="v4.6 Client" value="" />
+            <entry title="v3.5 SP1" value="" />
+            <entry title="v3.0 SP2" value="" />
+            <entry title="v2.0 SP2" value="" />
+        </section>
+        <section title="Internet Explorer">
+            <entry title="Version" value="11.0.10240.16384" />
+        </section>
+        <section title="PowerShell">
+            <entry title="Version" value="5.0.10240.16384" />
+        </section>
+        <section title="Environment Variables">
+            <entry title="USERPROFILE" value="C:\Users\Javier" />
+            <entry title="SystemRoot" value="C:\Windows" />
+            <section title="User Variables">
+                <entry title="OneDrive" value="C:\Users\Javier\OneDrive" />
+                <entry title="TEMP" value="C:\Users\Javier\AppData\Local\Temp" />
+                <entry title="TMP" value="C:\Users\Javier\AppData\Local\Temp" />
+            </section>
+            <section title="Machine Variables">
+                <entry title="ComSpec" value="C:\Windows\system32\cmd.exe" />
+                <entry title="NUMBER_OF_PROCESSORS" value="4" />
+                <entry title="OS" value="Windows_NT" />
+                <entry title="Path" value="C:\Windows\system32" />
+                <entry value="C:\Windows" />
+                <entry value="C:\Windows\System32\Wbem" />
+                <entry value="C:\Windows\System32\WindowsPowerShell\v1.0\" />
+                <entry title="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
+                <entry title="PROCESSOR_ARCHITECTURE" value="AMD64" />
+                <entry title="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 9, GenuineIntel" />
+                <entry title="PROCESSOR_LEVEL" value="6" />
+                <entry title="PROCESSOR_REVISION" value="9e09" />
+                <entry title="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
+                <entry title="TEMP" value="C:\Windows\TEMP" />
+                <entry title="TMP" value="C:\Windows\TEMP" />
+                <entry title="USERNAME" value="SYSTEM" />
+                <entry title="windir" value="C:\Windows" />
+            </section>
+        </section>
+        <section title="Power Profile">
+            <entry title="Active power scheme" value="Equilibrado" />
+            <entry title="Hibernation" value="Enabled" />
+            <entry title="Turn Off Monitor after: (On AC Power)" value="10 min" />
+            <entry title="Turn Off Hard Disk after: (On AC Power)" value="20 min" />
+            <entry title="Suspend after: (On AC Power)" value="30 min" />
+            <entry title="Screen saver" value="Enabled" />
+        </section>
+        <section title="Uptime">
+            <section title="Current Session">
+                <entry title="Current Time" value="18/7/2018 9:51:48 a. m." />
+                <entry title="Current Uptime" value="6.284 sec (0d, 01h, 44m, 44s)" />
+                <entry title="Last Boot Time" value="18/7/2018 8:07:04 a. m." />
+            </section>
+        </section>
+        <section title="Services">
+            <entry title="Running" value="360 Total Security" />
+            <entry title="Running" value="Adaptador de rendimiento de WMI" />
+            <entry title="Running" value="Administrador de conexiones de Windows" />
+            <entry title="Running" value="Administrador de credenciales" />
+            <entry title="Running" value="Administrador de cuentas de seguridad" />
+            <entry title="Running" value="Administrador de identidad de redes de mismo nivel" />
+            <entry title="Running" value="Administrador de sesión local" />
+            <entry title="Running" value="Administrador de usuarios" />
+            <entry title="Running" value="Adquisición de imágenes de Windows (WIA)" />
+            <entry title="Running" value="Agente de conexión de red" />
+            <entry title="Running" value="Agente de directiva IPsec" />
+            <entry title="Running" value="Agente de eventos de tiempo" />
+            <entry title="Running" value="Agente de eventos del sistema" />
+            <entry title="Running" value="Aislamiento de claves CNG" />
+            <entry title="Running" value="Aplicación auxiliar de NetBIOS sobre TCP/IP" />
+            <entry title="Running" value="Aplicación auxiliar IP" />
+            <entry title="Running" value="Asignador de extremos de RPC" />
+            <entry title="Running" value="Audio de Windows" />
+            <entry title="Running" value="Centro de seguridad" />
+            <entry title="Running" value="Cliente de directiva de grupo" />
+            <entry title="Running" value="Cliente DHCP" />
+            <entry title="Running" value="Cliente DNS" />
+            <entry title="Running" value="Cola de impresión" />
+            <entry title="Running" value="Compilador de extremo de audio de Windows" />
+            <entry title="Running" value="Configuración automática de WLAN" />
+            <entry title="Running" value="CoreMessaging" />
+            <entry title="Running" value="Detección de hardware shell" />
+            <entry title="Running" value="Detección SSDP" />
+            <entry title="Running" value="Energía" />
+            <entry title="Running" value="Estación de trabajo" />
+            <entry title="Running" value="Examinador de equipos" />
+            <entry title="Running" value="Firewall de Windows" />
+            <entry title="Running" value="Host de proveedor de detección de función" />
+            <entry title="Running" value="Host de sistema de diagnóstico" />
+            <entry title="Running" value="Host del servicio de diagnóstico" />
+            <entry title="Running" value="Información de la aplicación" />
+            <entry title="Running" value="Iniciador de procesos de servidor DCOM" />
+            <entry title="Running" value="Instrumental de administración de Windows" />
+            <entry title="Running" value="Intel Content Protection HDCP Service" />
+            <entry title="Running" value="Intel Content Protection HECI Service" />
+            <entry title="Running" value="Intel Rapid Storage Technology" />
+            <entry title="Running" value="Llamada a procedimiento remoto (RPC)" />
+            <entry title="Running" value="Motor de filtrado de base" />
+            <entry title="Running" value="Módulos de creación de claves de IPsec para IKE y AuthIP" />
+            <entry title="Running" value="Plug and Play" />
+            <entry title="Running" value="Programador de tareas" />
+            <entry title="Running" value="Protocolo de resolución de nombres de mismo nivel" />
+            <entry title="Running" value="Proveedor de Grupo Hogar" />
+            <entry title="Running" value="Publicación de recurso de detección de función" />
+            <entry title="Running" value="Reconoc. ubicación de red" />
+            <entry title="Running" value="Registrador de configuración de Windows Connect Now" />
+            <entry title="Running" value="Registro de eventos de Windows" />
+            <entry title="Running" value="Servicio Asistente para la compatibilidad de programas" />
+            <entry title="Running" value="Servicio de administrador de licencias de Windows" />
+            <entry title="Running" value="Servicio de asociación de dispositivos" />
+            <entry title="Running" value="Servicio de caché de fuentes de Windows" />
+            <entry title="Running" value="Servicio de detección automática de proxy web WinHTTP" />
+            <entry title="Running" value="Servicio de directivas de diagnóstico" />
+            <entry title="Running" value="Servicio de dispositivo de interfaz humana" />
+            <entry title="Running" value="Servicio de facilitación de actualización de Windows 10" />
+            <entry title="Running" value="Servicio de geolocalización" />
+            <entry title="Running" value="Servicio de infraestructura de tareas en segundo plano" />
+            <entry title="Running" value="Servicio de lista de redes" />
+            <entry title="Running" value="Servicio de notificación de eventos de sistema" />
+            <entry title="Running" value="Servicio de perfil de usuario" />
+            <entry title="Running" value="Servicio de repositorio de estado" />
+            <entry title="Running" value="Servicio de seguimiento de diagnósticos" />
+            <entry title="Running" value="Servicio de transferencia inteligente en segundo plano (BITS)" />
+            <entry title="Running" value="Servicio enumerador de dispositivos portátiles" />
+            <entry title="Running" value="Servicio Hacer clic y ejecutar de Microsoft Office" />
+            <entry title="Running" value="Servicio Interfaz de almacenamiento en red" />
+            <entry title="Running" value="Servicios de cifrado" />
+            <entry title="Running" value="Servidor" />
+            <entry title="Running" value="Servidor del modelo de datos del mosaico" />
+            <entry title="Running" value="Sistema de eventos COM+" />
+            <entry title="Running" value="Superfetch" />
+            <entry title="Running" value="Temas" />
+            <entry title="Running" value="Ubicador de llamada a procedimiento remoto (RPC)" />
+            <entry title="Running" value="Windows Driver Foundation - User-mode Driver Framework" />
+            <entry title="Running" value="Windows Search" />
+            <entry title="Stopped" value="Actualizar el servicio Orchestrator" />
+            <entry title="Stopped" value="Administración de aplicaciones" />
+            <entry title="Stopped" value="Administración de autenticación de Xbox Live" />
+            <entry title="Stopped" value="Administración remota de Windows (WS-Management)" />
+            <entry title="Stopped" value="Administrador de conexiones automáticas de acceso remoto" />
+            <entry title="Stopped" value="Administrador de conexiones de acceso remoto" />
+            <entry title="Stopped" value="Administrador de configuración de dispositivos" />
+            <entry title="Stopped" value="Administrador de mapas descargados" />
+            <entry title="Stopped" value="Adobe Acrobat Update Service" />
+            <entry title="Stopped" value="Agente de detección en segundo plano de DevQuery" />
+            <entry title="Stopped" value="Agrupación de red del mismo nivel" />
+            <entry title="Stopped" value="Aplicación del sistema COM+" />
+            <entry title="Stopped" value="Archivos sin conexión" />
+            <entry title="Stopped" value="Asignador de detección de topologías de nivel de vínculo" />
+            <entry title="Stopped" value="Asistente para la conectividad de red" />
+            <entry title="Stopped" value="Ayuda del Panel de control de Informes de problemas y soluciones" />
+            <entry title="Stopped" value="Ayudante para el inicio de sesión de cuenta Microsoft" />
+            <entry title="Stopped" value="BranchCache" />
+            <entry title="Stopped" value="Captura SNMP" />
+            <entry title="Stopped" value="Carpetas de trabajo" />
+            <entry title="Stopped" value="CDPSvc" />
+            <entry title="Stopped" value="Cliente de seguimiento de vínculos distribuidos" />
+            <entry title="Stopped" value="Cliente web" />
+            <entry title="Stopped" value="Comprobador puntual" />
+            <entry title="Stopped" value="Conexiones de red" />
+            <entry title="Stopped" value="Conexión compartida a Internet (ICS)" />
+            <entry title="Stopped" value="Configuración automática de dispositivos conectados a la red" />
+            <entry title="Stopped" value="Configuración automática de redes cableadas" />
+            <entry title="Stopped" value="Configuración automática de WWAN" />
+            <entry title="Stopped" value="Configuración de Escritorio remoto" />
+            <entry title="Stopped" value="Contenedor de Microsoft Passport" />
+            <entry title="Stopped" value="Coordinador de transacciones distribuidas" />
+            <entry title="Stopped" value="Copias de seguridad de Windows" />
+            <entry title="Stopped" value="DataCollectionPublishingService" />
+            <entry title="Stopped" value="Detección de servicios interactivos" />
+            <entry title="Stopped" value="Directiva de extracción de tarjetas inteligentes" />
+            <entry title="Stopped" value="Disco virtual" />
+            <entry title="Stopped" value="Dispositivo host de UPnP" />
+            <entry title="Stopped" value="DLL de host del Contador de rendimiento" />
+            <entry title="Stopped" value="dmwappushsvc" />
+            <entry title="Stopped" value="embeddedmode" />
+            <entry title="Stopped" value="Enrutamiento y acceso remoto" />
+            <entry title="Stopped" value="Enterprise App Management Service" />
+            <entry title="Stopped" value="Escucha de Grupo Hogar" />
+            <entry title="Stopped" value="Eventos de adquisición de imágenes estáticas" />
+            <entry title="Stopped" value="Experiencia de calidad de audio y vídeo de Windows (qWave)" />
+            <entry title="Stopped" value="Extensiones y notificaciones de impresora" />
+            <entry title="Stopped" value="Fax" />
+            <entry title="Stopped" value="Google Update Servicio (gupdate)" />
+            <entry title="Stopped" value="Google Update Servicio (gupdatem)" />
+            <entry title="Stopped" value="Hora de Windows" />
+            <entry title="Stopped" value="Identidad de aplicación" />
+            <entry title="Stopped" value="Inicio de sesión secundario" />
+            <entry title="Stopped" value="Instalador de ActiveX (AxInstSV)" />
+            <entry title="Stopped" value="Instalador de módulos de Windows" />
+            <entry title="Stopped" value="Instantáneas de volumen" />
+            <entry title="Stopped" value="Intel HD Graphics Control Panel Service" />
+            <entry title="Stopped" value="Interfaz de servicio invitado de Hyper-V" />
+            <entry title="Stopped" value="KTMRM para DTC (Coordinador de transacciones distribuidas)" />
+            <entry title="Stopped" value="Microsoft Passport" />
+            <entry title="Stopped" value="Net Logon" />
+            <entry title="Stopped" value="Office 64 Source Engine" />
+            <entry title="Stopped" value="Optimización de entrega" />
+            <entry title="Stopped" value="Optimizar unidades" />
+            <entry title="Stopped" value="Partida guardada en Xbox Live" />
+            <entry title="Stopped" value="Preparación de aplicaciones" />
+            <entry title="Stopped" value="Propagación de certificados" />
+            <entry title="Stopped" value="Protección de software" />
+            <entry title="Stopped" value="Protocolo de autenticación extensible" />
+            <entry title="Stopped" value="Proveedor de instantáneas de software de Microsoft" />
+            <entry title="Stopped" value="Recopilador de eventos de Windows" />
+            <entry title="Stopped" value="Redirector de puerto en modo usuario de Servicios de Escritorio remoto" />
+            <entry title="Stopped" value="Registro remoto" />
+            <entry title="Stopped" value="Registros y alertas de rendimiento" />
+            <entry title="Stopped" value="Servicio biométrico de Windows" />
+            <entry title="Stopped" value="Servicio Cifrado de unidad BitLocker" />
+            <entry title="Stopped" value="Servicio de almacenamiento" />
+            <entry title="Stopped" value="Servicio de cierre de invitado de Hyper-V" />
+            <entry title="Stopped" value="Servicio de compatibilidad con Bluetooth" />
+            <entry title="Stopped" value="Servicio de configuración de red" />
+            <entry title="Stopped" value="Servicio de datos del sensor" />
+            <entry title="Stopped" value="Servicio de enrutador de AllJoyn" />
+            <entry title="Stopped" value="Servicio de enumeración de dispositivos de tarjeta inteligente" />
+            <entry title="Stopped" value="Servicio de historial de archivos" />
+            <entry title="Stopped" value="Servicio de implementación de AppX (AppXSVC)" />
+            <entry title="Stopped" value="Servicio de inscripción de administración de dispositivos" />
+            <entry title="Stopped" value="Servicio de inspección de red de Windows Defender" />
+            <entry title="Stopped" value="Servicio de instalación de dispositivos" />
+            <entry title="Stopped" value="Servicio de intercambio de datos de Hyper-V" />
+            <entry title="Stopped" value="Servicio de latido de Hyper-V" />
+            <entry title="Stopped" value="Servicio de licencia de cliente (ClipSVC)" />
+            <entry title="Stopped" value="Servicio de Panel de escritura a mano y teclado táctil" />
+            <entry title="Stopped" value="Servicio de protocolo de túnel de sockets seguros" />
+            <entry title="Stopped" value="Servicio de prueba comercial" />
+            <entry title="Stopped" value="Servicio de publicación de nombres de equipo PNRP" />
+            <entry title="Stopped" value="Servicio de puerta de enlace de nivel de aplicación" />
+            <entry title="Stopped" value="Servicio de red de Xbox Live" />
+            <entry title="Stopped" value="Servicio de sensores" />
+            <entry title="Stopped" value="Servicio de sesión de máquina virtual de Hyper-V" />
+            <entry title="Stopped" value="Servicio de sincronización de hora de Hyper-V" />
+            <entry title="Stopped" value="Servicio de supervisión de sensores" />
+            <entry title="Stopped" value="Servicio de uso compartido de datos" />
+            <entry title="Stopped" value="Servicio de uso compartido de puertos Net.Tcp" />
+            <entry title="Stopped" value="Servicio de uso compartido de red del Reproductor de Windows Media" />
+            <entry title="Stopped" value="Servicio de virtualización de Escritorio remoto de Hyper-V" />
+            <entry title="Stopped" value="Servicio de Windows Defender" />
+            <entry title="Stopped" value="Servicio de zona con cobertura inalámbrica móvil de Windows" />
+            <entry title="Stopped" value="Servicio del iniciador iSCSI de Microsoft" />
+            <entry title="Stopped" value="Servicio del módulo de copia de seguridad a nivel de bloque" />
+            <entry title="Stopped" value="Servicio enrutador de SMS de Microsoft Windows." />
+            <entry title="Stopped" value="Servicio host de proveedor de cifrado de Windows" />
+            <entry title="Stopped" value="Servicio Informe de errores de Windows" />
+            <entry title="Stopped" value="Servicio manos libres Bluetooth" />
+            <entry title="Stopped" value="Servicio Recopilador de eventos ETW para Internet Explorer" />
+            <entry title="Stopped" value="Servicio Recopilador estándar del concentrador de diagnósticos de Microsoft" />
+            <entry title="Stopped" value="Servicio Tienda Windows (WSService)" />
+            <entry title="Stopped" value="Servicios de Escritorio remoto" />
+            <entry title="Stopped" value="Servicios de notificaciones de inserción de Windows" />
+            <entry title="Stopped" value="Sistema de cifrado de archivos (EFS)" />
+            <entry title="Stopped" value="Sistema de color de Windows" />
+            <entry title="Stopped" value="SMP de Espacios de almacenamiento de Microsoft" />
+            <entry title="Stopped" value="Solicitante de instantáneas de volumen de Hyper-V" />
+            <entry title="Stopped" value="Tarjeta inteligente" />
+            <entry title="Stopped" value="Telefonía" />
+            <entry title="Stopped" value="WalletService" />
+            <entry title="Stopped" value="Windows Installer" />
+            <entry title="Stopped" value="Windows Presentation Foundation Font Cache 3.0.0.0" />
+            <entry title="Stopped" value="Windows Update" />
+        </section>
+        <section title="TimeZone">
+            <entry title="TimeZone" value="GMT -3:00 Hours" />
+            <entry title="Language" value="Español (Argentina)" />
+            <entry title="Location" value="Argentina" />
+            <entry title="Format" value="Español (Argentina)" />
+            <entry title="Currency" value="$" />
+            <entry title="Date Format" value="d/M/yyyy" />
+            <entry title="Time Format" value="h:mm:ss tt" />
+        </section>
+        <section title="Scheduler">
+            <entry title="18/7/2018 9:59 a. m.;" value="GoogleUpdateTaskMachineUA" />
+            <entry title="18/7/2018 10:00 a. m.;" value="Adobe Acrobat Update Task" />
+            <entry title="18/7/2018 11:59 a. m.;" value="GoogleUpdateTaskMachineCore" />
+            <entry title="19/7/2018 11:58 p. m.;" value="OneDrive Standalone Update Task-S-1-5-21-2010850706-278759422-2833635154-1001" />
+            <entry value="DRPNPS" />
+        </section>
+        <section title="Hotfixes">
+            <section title="Installed" />
+            <section title="Not Installed" />
+        </section>
+        <section title="System Folders">
+            <entry title="Application Data" value="C:\ProgramData" />
+            <entry title="Cookies" value="C:\Users\Javier\AppData\Local\Microsoft\Windows\INetCookies" />
+            <entry title="Desktop" value="C:\Users\Javier\Desktop" />
+            <entry title="Documents" value="C:\Users\Public\Documents" />
+            <entry title="Fonts" value="C:\Windows\Fonts" />
+            <entry title="Global Favorites" value="C:\Users\Javier\Favorites" />
+            <entry title="Internet History" value="C:\Users\Javier\AppData\Local\Microsoft\Windows\History" />
+            <entry title="Local Application Data" value="C:\Users\Javier\AppData\Local" />
+            <entry title="Music" value="C:\Users\Public\Music" />
+            <entry title="Path for burning CD" value="C:\Users\Javier\AppData\Local\Microsoft\Windows\Burn\Burn" />
+            <entry title="Physical Desktop" value="C:\Users\Javier\Desktop" />
+            <entry title="Pictures" value="C:\Users\Public\Pictures" />
+            <entry title="Program Files" value="C:\Program Files" />
+            <entry title="Public Desktop" value="C:\Users\Public\Desktop" />
+            <entry title="Start Menu" value="C:\ProgramData\Microsoft\Windows\Start Menu" />
+            <entry title="Start Menu Programs" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs" />
+            <entry title="Startup" value="C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup" />
+            <entry title="Templates" value="C:\ProgramData\Microsoft\Windows\Templates" />
+            <entry title="Temporary Internet Files" value="C:\Users\Javier\AppData\Local\Microsoft\Windows\INetCache" />
+            <entry title="User Favorites" value="C:\Users\Javier\Favorites" />
+            <entry title="Videos" value="C:\Users\Public\Videos" />
+            <entry title="Windows Directory" value="C:\Windows" />
+            <entry title="Windows/System" value="C:\Windows\system32" />
+        </section>
+        <section title="Process List">
+            <section title="360webshield.exe">
+                <entry title="Process ID" value="5540" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\360\Total Security\safemon\chrome\360webshield.exe" />
+                <entry title="Memory Usage" value="12 MB" />
+                <entry title="Peak Memory Usage" value="12 MB" />
+            </section>
+            <section title="ApplicationFrameHost.exe">
+                <entry title="Process ID" value="6504" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\ApplicationFrameHost.exe" />
+                <entry title="Memory Usage" value="26 MB" />
+                <entry title="Peak Memory Usage" value="30 MB" />
+            </section>
+            <section title="audiodg.exe">
+                <entry title="Process ID" value="1368" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\audiodg.exe" />
+                <entry title="Memory Usage" value="20 MB" />
+                <entry title="Peak Memory Usage" value="22 MB" />
+            </section>
+            <section title="Calculator.exe">
+                <entry title="Process ID" value="3536" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1604.21020.1000_x64__8wekyb3d8bbwe\Calculator.exe" />
+                <entry title="Memory Usage" value="33 MB" />
+                <entry title="Peak Memory Usage" value="46 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5516" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="8.98 MB" />
+                <entry title="Peak Memory Usage" value="9.02 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5640" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="141 MB" />
+                <entry title="Peak Memory Usage" value="162 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5892" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="44 MB" />
+                <entry title="Peak Memory Usage" value="68 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="4228" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="293 MB" />
+                <entry title="Peak Memory Usage" value="329 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5680" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="9.34 MB" />
+                <entry title="Peak Memory Usage" value="9.39 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="6088" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="46 MB" />
+                <entry title="Peak Memory Usage" value="47 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="6228" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="46 MB" />
+                <entry title="Peak Memory Usage" value="50 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5728" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="422 MB" />
+                <entry title="Peak Memory Usage" value="450 MB" />
+            </section>
+            <section title="chrome.exe">
+                <entry title="Process ID" value="5816" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+                <entry title="Memory Usage" value="21 MB" />
+                <entry title="Peak Memory Usage" value="21 MB" />
+            </section>
+            <section title="cmd.exe">
+                <entry title="Process ID" value="4348" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\cmd.exe" />
+                <entry title="Memory Usage" value="2.58 MB" />
+                <entry title="Peak Memory Usage" value="2.60 MB" />
+            </section>
+            <section title="conhost.exe">
+                <entry title="Process ID" value="5328" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\conhost.exe" />
+                <entry title="Memory Usage" value="8.99 MB" />
+                <entry title="Peak Memory Usage" value="10 MB" />
+            </section>
+            <section title="csrss.exe">
+                <entry title="Process ID" value="496" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\csrss.exe" />
+                <entry title="Memory Usage" value="3.90 MB" />
+                <entry title="Peak Memory Usage" value="3.99 MB" />
+            </section>
+            <section title="csrss.exe">
+                <entry title="Process ID" value="588" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\csrss.exe" />
+                <entry title="Memory Usage" value="6.96 MB" />
+                <entry title="Peak Memory Usage" value="10 MB" />
+            </section>
+            <section title="dllhost.exe">
+                <entry title="Process ID" value="6100" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\dllhost.exe" />
+                <entry title="Memory Usage" value="5.29 MB" />
+                <entry title="Peak Memory Usage" value="5.29 MB" />
+            </section>
+            <section title="dllhost.exe">
+                <entry title="Process ID" value="5544" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\dllhost.exe" />
+                <entry title="Memory Usage" value="5.71 MB" />
+                <entry title="Peak Memory Usage" value="5.71 MB" />
+            </section>
+            <section title="dwm.exe">
+                <entry title="Process ID" value="968" />
+                <entry title="User" value="DWM-1" />
+                <entry title="Domain" value="Window Manager" />
+                <entry title="Path" value="C:\Windows\System32\dwm.exe" />
+                <entry title="Memory Usage" value="45 MB" />
+                <entry title="Peak Memory Usage" value="60 MB" />
+            </section>
+            <section title="explorer.exe">
+                <entry title="Process ID" value="3756" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\explorer.exe" />
+                <entry title="Memory Usage" value="110 MB" />
+                <entry title="Peak Memory Usage" value="117 MB" />
+            </section>
+            <section title="hppusg.exe">
+                <entry title="Process ID" value="4064" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\Hewlett-Packard\HP UT\bin\hppusg.exe" />
+                <entry title="Memory Usage" value="3.20 MB" />
+                <entry title="Peak Memory Usage" value="26 MB" />
+            </section>
+            <section title="IAStorDataMgrSvc.exe">
+                <entry title="Process ID" value="1868" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Program Files\Intel\Intel Rapid Storage Technology\IAStorDataMgrSvc.exe" />
+                <entry title="Memory Usage" value="46 MB" />
+                <entry title="Peak Memory Usage" value="48 MB" />
+            </section>
+            <section title="IntelCpHDCPSvc.exe">
+                <entry title="Process ID" value="1840" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\IntelCpHDCPSvc.exe" />
+                <entry title="Memory Usage" value="6.35 MB" />
+                <entry title="Peak Memory Usage" value="6.45 MB" />
+            </section>
+            <section title="IntelCpHeciSvc.exe">
+                <entry title="Process ID" value="1720" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\SysWOW64\IntelCpHeciSvc.exe" />
+                <entry title="Memory Usage" value="6.62 MB" />
+                <entry title="Peak Memory Usage" value="6.80 MB" />
+            </section>
+            <section title="Locator.exe">
+                <entry title="Process ID" value="1964" />
+                <entry title="User" value="Servicio de red" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\Locator.exe" />
+                <entry title="Memory Usage" value="2.46 MB" />
+                <entry title="Peak Memory Usage" value="2.50 MB" />
+            </section>
+            <section title="lsass.exe">
+                <entry title="Process ID" value="720" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\lsass.exe" />
+                <entry title="Memory Usage" value="14 MB" />
+                <entry title="Peak Memory Usage" value="14 MB" />
+            </section>
+            <section title="OfficeClickToRun.exe">
+                <entry title="Process ID" value="2092" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe" />
+                <entry title="Memory Usage" value="32 MB" />
+                <entry title="Peak Memory Usage" value="33 MB" />
+            </section>
+            <section title="QHActiveDefense.exe">
+                <entry title="Process ID" value="1372" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Program Files (x86)\360\Total Security\safemon\QHActiveDefense.exe" />
+                <entry title="Memory Usage" value="73 MB" />
+                <entry title="Peak Memory Usage" value="112 MB" />
+            </section>
+            <section title="QHSafeTray.exe">
+                <entry title="Process ID" value="1476" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\360\Total Security\safemon\QHSafeTray.exe" />
+                <entry title="Memory Usage" value="61 MB" />
+                <entry title="Peak Memory Usage" value="62 MB" />
+            </section>
+            <section title="QHWatchdog.exe">
+                <entry title="Process ID" value="3296" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Program Files (x86)\360\Total Security\safemon\QHWatchdog.exe" />
+                <entry title="Memory Usage" value="3.82 MB" />
+                <entry title="Peak Memory Usage" value="3.96 MB" />
+            </section>
+            <section title="RtkNGUI64.exe">
+                <entry title="Process ID" value="4408" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe" />
+                <entry title="Memory Usage" value="12 MB" />
+                <entry title="Peak Memory Usage" value="12 MB" />
+            </section>
+            <section title="RuntimeBroker.exe">
+                <entry title="Process ID" value="3860" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\RuntimeBroker.exe" />
+                <entry title="Memory Usage" value="28 MB" />
+                <entry title="Peak Memory Usage" value="67 MB" />
+            </section>
+            <section title="SearchIndexer.exe">
+                <entry title="Process ID" value="3952" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\SearchIndexer.exe" />
+                <entry title="Memory Usage" value="54 MB" />
+                <entry title="Peak Memory Usage" value="87 MB" />
+            </section>
+            <section title="SearchUI.exe">
+                <entry title="Process ID" value="4656" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe" />
+                <entry title="Memory Usage" value="82 MB" />
+                <entry title="Peak Memory Usage" value="88 MB" />
+            </section>
+            <section title="services.exe">
+                <entry title="Process ID" value="700" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\services.exe" />
+                <entry title="Memory Usage" value="6.33 MB" />
+                <entry title="Peak Memory Usage" value="6.66 MB" />
+            </section>
+            <section title="ShellExperienceHost.exe">
+                <entry title="Process ID" value="4560" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe" />
+                <entry title="Memory Usage" value="58 MB" />
+                <entry title="Peak Memory Usage" value="64 MB" />
+            </section>
+            <section title="sihost.exe">
+                <entry title="Process ID" value="3444" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\sihost.exe" />
+                <entry title="Memory Usage" value="24 MB" />
+                <entry title="Peak Memory Usage" value="28 MB" />
+            </section>
+            <section title="smss.exe">
+                <entry title="Process ID" value="364" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\smss.exe" />
+                <entry title="Memory Usage" value="1.15 MB" />
+                <entry title="Peak Memory Usage" value="1.18 MB" />
+            </section>
+            <section title="Speccy64.exe">
+                <entry title="Process ID" value="6592" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="F:\SPECCY\Speccy64.exe" />
+                <entry title="Memory Usage" value="23 MB" />
+                <entry title="Peak Memory Usage" value="23 MB" />
+            </section>
+            <section title="spoolsv.exe">
+                <entry title="Process ID" value="1580" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\spoolsv.exe" />
+                <entry title="Memory Usage" value="19 MB" />
+                <entry title="Peak Memory Usage" value="25 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1068" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="17 MB" />
+                <entry title="Peak Memory Usage" value="18 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1320" />
+                <entry title="User" value="Servicio de red" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="17 MB" />
+                <entry title="Peak Memory Usage" value="18 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1692" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="26 MB" />
+                <entry title="Peak Memory Usage" value="58 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1832" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="7.36 MB" />
+                <entry title="Peak Memory Usage" value="7.80 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1872" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="20 MB" />
+                <entry title="Peak Memory Usage" value="21 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1936" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="17 MB" />
+                <entry title="Peak Memory Usage" value="17 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1996" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="75 MB" />
+                <entry title="Peak Memory Usage" value="91 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="2016" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="8.54 MB" />
+                <entry title="Peak Memory Usage" value="9.55 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="2652" />
+                <entry title="User" value="Servicio de red" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="5.73 MB" />
+                <entry title="Peak Memory Usage" value="7.07 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1132" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="28 MB" />
+                <entry title="Peak Memory Usage" value="29 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="808" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="16 MB" />
+                <entry title="Peak Memory Usage" value="17 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="864" />
+                <entry title="User" value="Servicio de red" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="8.12 MB" />
+                <entry title="Peak Memory Usage" value="8.29 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="320" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="52 MB" />
+                <entry title="Peak Memory Usage" value="214 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="404" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="17 MB" />
+                <entry title="Peak Memory Usage" value="25 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="5152" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="12 MB" />
+                <entry title="Peak Memory Usage" value="12 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="1060" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="27 MB" />
+                <entry title="Peak Memory Usage" value="31 MB" />
+            </section>
+            <section title="svchost.exe">
+                <entry title="Process ID" value="6288" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\svchost.exe" />
+                <entry title="Memory Usage" value="6.96 MB" />
+                <entry title="Peak Memory Usage" value="6.96 MB" />
+            </section>
+            <section title="System">
+                <entry title="Process ID" value="4" />
+                <entry title="Memory Usage" value="7.24 MB" />
+                <entry title="Peak Memory Usage" value="28 MB" />
+            </section>
+            <section title="System Idle Process">
+                <entry title="Process ID" value="0" />
+            </section>
+            <section title="SystemSettingsBroker.exe">
+                <entry title="Process ID" value="5392" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\SystemSettingsBroker.exe" />
+                <entry title="Memory Usage" value="12 MB" />
+                <entry title="Peak Memory Usage" value="13 MB" />
+            </section>
+            <section title="taskhostw.exe">
+                <entry title="Process ID" value="3468" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Windows\System32\taskhostw.exe" />
+                <entry title="Memory Usage" value="14 MB" />
+                <entry title="Peak Memory Usage" value="20 MB" />
+            </section>
+            <section title="USBGuard.exe">
+                <entry title="Process ID" value="1480" />
+                <entry title="User" value="Javier" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+                <entry title="Path" value="C:\Program Files (x86)\USB Disk Security\USBGuard.exe" />
+                <entry title="Memory Usage" value="18 MB" />
+                <entry title="Peak Memory Usage" value="18 MB" />
+            </section>
+            <section title="wininit.exe">
+                <entry title="Process ID" value="572" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\wininit.exe" />
+                <entry title="Memory Usage" value="4.47 MB" />
+                <entry title="Peak Memory Usage" value="4.62 MB" />
+            </section>
+            <section title="winlogon.exe">
+                <entry title="Process ID" value="648" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\winlogon.exe" />
+                <entry title="Memory Usage" value="8.44 MB" />
+                <entry title="Peak Memory Usage" value="11 MB" />
+            </section>
+            <section title="WmiApSrv.exe">
+                <entry title="Process ID" value="1976" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\wbem\WmiApSrv.exe" />
+                <entry title="Memory Usage" value="6.02 MB" />
+                <entry title="Peak Memory Usage" value="6.13 MB" />
+            </section>
+            <section title="WmiPrvSE.exe">
+                <entry title="Process ID" value="5940" />
+                <entry title="User" value="SYSTEM" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\wbem\WmiPrvSE.exe" />
+                <entry title="Memory Usage" value="7.61 MB" />
+                <entry title="Peak Memory Usage" value="7.61 MB" />
+            </section>
+            <section title="WmiPrvSE.exe">
+                <entry title="Process ID" value="5428" />
+                <entry title="User" value="Servicio de red" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\wbem\WmiPrvSE.exe" />
+                <entry title="Memory Usage" value="39 MB" />
+                <entry title="Peak Memory Usage" value="39 MB" />
+            </section>
+            <section title="WUDFHost.exe">
+                <entry title="Process ID" value="5784" />
+                <entry title="User" value="SERVICIO LOCAL" />
+                <entry title="Domain" value="NT AUTHORITY" />
+                <entry title="Path" value="C:\Windows\System32\WUDFHost.exe" />
+                <entry title="Memory Usage" value="7.05 MB" />
+                <entry title="Peak Memory Usage" value="7.05 MB" />
+            </section>
+        </section>
+        <section title="Device Tree">
+            <section title="ACPI x64-based PC">
+                <section title="Sistema Microsoft compatible con ACPI">
+                    <entry value="ACPI Fan" />
+                    <entry value="ACPI Fan" />
+                    <entry value="ACPI Fan" />
+                    <entry value="ACPI Fan" />
+                    <entry value="ACPI Fan" />
+                    <entry value="ACPI Fixed Feature Button" />
+                    <entry value="ACPI Power Button" />
+                    <entry value="ACPI Sleep Button" />
+                    <entry value="ACPI Thermal Zone" />
+                    <entry value="ACPI Thermal Zone" />
+                    <entry value="Agregador de procesador ACPI" />
+                    <entry value="Complemento de motor de energía Intel" />
+                    <entry value="Intel Core i5-7500 CPU @ 3.40GHz" />
+                    <entry value="Intel Core i5-7500 CPU @ 3.40GHz" />
+                    <entry value="Intel Core i5-7500 CPU @ 3.40GHz" />
+                    <entry value="Intel Core i5-7500 CPU @ 3.40GHz" />
+                    <entry value="Interfaz de administración para ACPI de Microsoft Windows" />
+                    <entry value="Motherboard resources" />
+                    <section title="Complejo raíz PCI Express">
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #10 - A119" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #6 - A115" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #7 - A116" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #8 - A117" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PCI Express Root Port #9 - A118" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family PMC - A121" />
+                        <entry value="Intel 100 Series/C230 Series Chipset Family SMBus - A123" />
+                        <entry value="Intel Management Engine Interface" />
+                        <entry value="Intel Xeon E3 - 1200 v6/7th Gen Intel Core Host Bridge/DRAM Registers - 591F" />
+                        <entry value="Motherboard resources" />
+                        <entry value="Motherboard resources" />
+                        <entry value="Motherboard resources" />
+                        <entry value="Motherboard resources" />
+                        <section title="Intel(R) HD Graphics 630">
+                            <entry value="Monitor PnP genérico" />
+                        </section>
+                        <section title="Controlador de host eXtensible Intel(R) USB 3.0 - 1.0 (Microsoft)">
+                            <section title="Concentrador raíz USB (xHCI)">
+                                <section title="Dispositivo de entrada USB">
+                                    <entry value="Mouse compatible con HID" />
+                                </section>
+                                <section title="Dispositivo compuesto USB">
+                                    <section title="Dispositivo de entrada USB">
+                                        <entry value="Dispositivo de teclado HID" />
+                                    </section>
+                                    <section title="Dispositivo de entrada USB">
+                                        <entry value="Controlador del sistema compatible con HID" />
+                                        <entry value="Dispositivo de control del consumidor compatible con HID" />
+                                    </section>
+                                </section>
+                                <section title="Dispositivo de almacenamiento USB">
+                                    <entry value="Generic Mass-Storage USB Device" />
+                                </section>
+                                <section title="Dispositivo de almacenamiento USB">
+                                    <entry value="Verbatim STORE N GO USB Device" />
+                                </section>
+                            </section>
+                        </section>
+                        <section title="Intel(R) 100 Series/C230 Chipset Family SATA AHCI Controller">
+                            <entry value="ATAPI iHAS122 F" />
+                            <entry value="WDC WD10EZEX-08WN4A0" />
+                        </section>
+                        <section title="Intel(R) 100 Series/C230 Series Chipset Family PCI Express Root Port #5 - A114">
+                            <entry value="Realtek PCIe GBE Family Controller" />
+                        </section>
+                        <section title="Intel(R) 100 Series/C230 Series Chipset Family LPC Controller (H110) - A143">
+                            <entry value="High precision event timer" />
+                            <entry value="Legacy device" />
+                            <entry value="Motherboard resources" />
+                            <entry value="Motherboard resources" />
+                            <entry value="Motherboard resources" />
+                            <entry value="Motherboard resources" />
+                            <entry value="Numeric data processor" />
+                            <entry value="Programmable interrupt controller" />
+                            <entry value="System CMOS/real time clock" />
+                            <entry value="System timer" />
+                        </section>
+                        <section title="Controladora de High Definition Audio">
+                            <entry value="Sonido Intel para pantallas" />
+                            <section title="Realtek High Definition Audio">
+                                <entry value="Altavoces (Realtek High Definition Audio)" />
+                                <entry value="Micrófono (Realtek High Definition Audio)" />
+                                <entry value="Realtek Digital Output (Realtek High Definition Audio)" />
+                            </section>
+                        </section>
+                    </section>
+                </section>
+                <section title="Sistema compatible con Microsoft UEFI">
+                    <entry value="Firmware de sistema" />
+                </section>
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="CPU" id="2">
+        <section title="Intel Core i5 7500">
+            <entry title="Cores" value="4" />
+            <entry title="Threads" value="4" />
+            <entry title="Name" value="Intel Core i5 7500" />
+            <entry title="Code Name" value="Kaby Lake" />
+            <entry title="Package" value="Socket 1151 LGA" />
+            <entry title="Technology" value="14nm" />
+            <entry title="Specification" value="Intel Core i5-7500 CPU @ 3.40GHz" />
+            <entry title="Family" value="6" />
+            <entry title="Extended Family" value="6" />
+            <entry title="Model" value="E" />
+            <entry title="Extended Model" value="9E" />
+            <entry title="Stepping" value="9" />
+            <entry title="Revision" value="B0" />
+            <entry title="Instructions" value="MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Intel 64, NX, VMX, AES, AVX, AVX2, FMA3" />
+            <entry title="Virtualization" value="Supported, Enabled" />
+            <entry title="Hyperthreading" value="Not supported" />
+            <entry title="Fan Speed" value="1962 RPM" />
+            <entry title="Bus Speed" value="100.0 MHz" />
+            <entry title="Stock Core Speed" value="3400 MHz" />
+            <entry title="Stock Bus Speed" value="100 MHz" />
+            <entry title="Average Temperature" value="34 °C" />
+            <section title="Caches">
+                <entry title="L1 Data Cache Size" value="4 x 32 KBytes" />
+                <entry title="L1 Instructions Cache Size" value="4 x 32 KBytes" />
+                <entry title="L2 Unified Cache Size" value="4 x 256 KBytes" />
+                <entry title="L3 Unified Cache Size" value="6144 KBytes" />
+            </section>
+            <section title="Cores">
+                <section title="Core 0">
+                    <entry title="Core Speed" value="800.0 MHz" />
+                    <entry title="Multiplier" value="x 8.0" />
+                    <entry title="Bus Speed" value="100.0 MHz" />
+                    <entry title="Temperature" value="33 °C" />
+                    <entry title="Threads" value="APIC ID: 0" />
+                </section>
+                <section title="Core 1">
+                    <entry title="Core Speed" value="800.0 MHz" />
+                    <entry title="Multiplier" value="x 8.0" />
+                    <entry title="Bus Speed" value="100.0 MHz" />
+                    <entry title="Temperature" value="35 °C" />
+                    <entry title="Threads" value="APIC ID: 2" />
+                </section>
+                <section title="Core 2">
+                    <entry title="Core Speed" value="800.0 MHz" />
+                    <entry title="Multiplier" value="x 8.0" />
+                    <entry title="Bus Speed" value="100.0 MHz" />
+                    <entry title="Temperature" value="33 °C" />
+                    <entry title="Threads" value="APIC ID: 4" />
+                </section>
+                <section title="Core 3">
+                    <entry title="Core Speed" value="800.0 MHz" />
+                    <entry title="Multiplier" value="x 8.0" />
+                    <entry title="Bus Speed" value="100.0 MHz" />
+                    <entry title="Temperature" value="33 °C" />
+                    <entry title="Threads" value="APIC ID: 6" />
+                </section>
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="RAM" id="3">
+        <section title="Memory slots">
+            <entry title="Total memory slots" value="4" />
+            <entry title="Used memory slots" value="1" />
+            <entry title="Free memory slots" value="3" />
+        </section>
+        <section title="Memory">
+            <entry title="Type" value="Unknown" />
+            <entry title="Size" value="8192 MBytes" />
+            <entry title="Channels #" value="Single" />
+            <entry title="DRAM Frequency" value="1200.1 MHz" />
+            <entry title="CAS# Latency (CL)" value="17 clocks" />
+            <entry title="RAS# to CAS# Delay (tRCD)" value="17 clocks" />
+            <entry title="RAS# Precharge (tRP)" value="17 clocks" />
+            <entry title="Cycle Time (tRAS)" value="39 clocks" />
+            <entry title="Command Rate (CR)" value="2T" />
+        </section>
+        <section title="Physical Memory">
+            <entry title="Memory Usage" value="32 %" />
+            <entry title="Total Physical" value="7.89 GB" />
+            <entry title="Available Physical" value="5.32 GB" />
+            <entry title="Total Virtual" value="9.14 GB" />
+            <entry title="Available Virtual" value="6.73 GB" />
+        </section>
+        <section title="SPD">
+            <entry title="Number Of SPD Modules" value="1" />
+            <section title="Slot #1">
+                <entry title="Type" value="Unknown" />
+                <entry title="Size" value="8192 MBytes" />
+                <entry title="Manufacturer" value="Crucial Technology" />
+                <entry title="Max Bandwidth" value="DDR4-2400 (1200 MHz)" />
+                <entry title="Part Number" value="CT8G4DFD824A.C16FH" />
+                <entry title="Serial Number" value="436737774" />
+                <entry title="Week/year" value="50 / 17" />
+                <section title="Timing table">
+                    <section title="JEDEC #1">
+                        <entry title="Frequency" value="727.3 MHz" />
+                        <entry title="CAS# Latency" value="10,0" />
+                        <entry title="RAS# To CAS#" value="10" />
+                        <entry title="RAS# Precharge" value="10" />
+                        <entry title="tRAS" value="24" />
+                        <entry title="tRC" value="34" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #2">
+                        <entry title="Frequency" value="800.0 MHz" />
+                        <entry title="CAS# Latency" value="11,0" />
+                        <entry title="RAS# To CAS#" value="11" />
+                        <entry title="RAS# Precharge" value="11" />
+                        <entry title="tRAS" value="26" />
+                        <entry title="tRC" value="37" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #3">
+                        <entry title="Frequency" value="872.7 MHz" />
+                        <entry title="CAS# Latency" value="12,0" />
+                        <entry title="RAS# To CAS#" value="12" />
+                        <entry title="RAS# Precharge" value="12" />
+                        <entry title="tRAS" value="28" />
+                        <entry title="tRC" value="40" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #4">
+                        <entry title="Frequency" value="945.5 MHz" />
+                        <entry title="CAS# Latency" value="13,0" />
+                        <entry title="RAS# To CAS#" value="13" />
+                        <entry title="RAS# Precharge" value="13" />
+                        <entry title="tRAS" value="31" />
+                        <entry title="tRC" value="44" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #5">
+                        <entry title="Frequency" value="1018.2 MHz" />
+                        <entry title="CAS# Latency" value="14,0" />
+                        <entry title="RAS# To CAS#" value="14" />
+                        <entry title="RAS# Precharge" value="14" />
+                        <entry title="tRAS" value="33" />
+                        <entry title="tRC" value="47" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #6">
+                        <entry title="Frequency" value="1090.9 MHz" />
+                        <entry title="CAS# Latency" value="15,0" />
+                        <entry title="RAS# To CAS#" value="15" />
+                        <entry title="RAS# Precharge" value="15" />
+                        <entry title="tRAS" value="35" />
+                        <entry title="tRC" value="50" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #7">
+                        <entry title="Frequency" value="1163.6 MHz" />
+                        <entry title="CAS# Latency" value="16,0" />
+                        <entry title="RAS# To CAS#" value="16" />
+                        <entry title="RAS# Precharge" value="16" />
+                        <entry title="tRAS" value="38" />
+                        <entry title="tRC" value="54" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #8">
+                        <entry title="Frequency" value="1200.5 MHz" />
+                        <entry title="CAS# Latency" value="17,0" />
+                        <entry title="RAS# To CAS#" value="17" />
+                        <entry title="RAS# Precharge" value="17" />
+                        <entry title="tRAS" value="39" />
+                        <entry title="tRC" value="55" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #9">
+                        <entry title="Frequency" value="1200.5 MHz" />
+                        <entry title="CAS# Latency" value="18,0" />
+                        <entry title="RAS# To CAS#" value="17" />
+                        <entry title="RAS# Precharge" value="17" />
+                        <entry title="tRAS" value="39" />
+                        <entry title="tRC" value="55" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #10">
+                        <entry title="Frequency" value="1200.5 MHz" />
+                        <entry title="CAS# Latency" value="19,0" />
+                        <entry title="RAS# To CAS#" value="17" />
+                        <entry title="RAS# Precharge" value="17" />
+                        <entry title="tRAS" value="39" />
+                        <entry title="tRC" value="55" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #11">
+                        <entry title="Frequency" value="1200.5 MHz" />
+                        <entry title="CAS# Latency" value="20,0" />
+                        <entry title="RAS# To CAS#" value="17" />
+                        <entry title="RAS# Precharge" value="17" />
+                        <entry title="tRAS" value="39" />
+                        <entry title="tRC" value="55" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                    <section title="JEDEC #12">
+                        <entry title="Frequency" value="1200.5 MHz" />
+                        <entry title="CAS# Latency" value="21,0" />
+                        <entry title="RAS# To CAS#" value="17" />
+                        <entry title="RAS# Precharge" value="17" />
+                        <entry title="tRAS" value="39" />
+                        <entry title="tRC" value="55" />
+                        <entry title="Voltage" value="1,200 V" />
+                    </section>
+                </section>
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="Motherboard" id="4">
+        <entry title="Manufacturer" value="Gigabyte Technology Co. Ltd." />
+        <entry title="Model" value="H110M-H-CF (U3E1)" />
+        <entry title="Version" value="x.x" />
+        <entry title="Chipset Vendor" value="Intel" />
+        <entry title="Chipset Model" value="Kaby Lake" />
+        <entry title="Chipset Revision" value="05" />
+        <entry title="Southbridge Vendor" value="Intel" />
+        <entry title="Southbridge Model" value="Skylake PCH" />
+        <entry title="Southbridge Revision" value="31" />
+        <entry title="System Temperature" value="28 °C" />
+        <section title="BIOS">
+            <entry title="Brand" value="American Megatrends Inc." />
+            <entry title="Version" value="F21" />
+            <entry title="Date" value="9/6/2017" />
+        </section>
+        <section title="Voltage">
+            <entry title="CPU CORE" value="0.768 V" />
+            <entry title="MEMORY CONTROLLER" value="2.076 V" />
+            <entry title="VIN2" value="2.028 V" />
+            <entry title="VIN3" value="2.052 V" />
+            <entry title="VIN4" value="0.216 V" />
+            <entry title="VIN5" value="1.080 V" />
+            <entry title="VIN6" value="1.224 V" />
+            <entry title="VIN7" value="1.680 V" />
+        </section>
+        <section title="PCI Data">
+            <section title="Slot PCI-E">
+                <entry title="Slot Type" value="PCI-E" />
+                <entry title="Slot Usage" value="In Use" />
+                <entry title="Data lanes" value="x16" />
+                <entry title="Slot Designation" value="J6B2" />
+                <entry title="Characteristics" value="3.3V, Shared, PME" />
+                <entry title="Slot Number" value="0" />
+            </section>
+            <section title="Slot PCI-E">
+                <entry title="Slot Type" value="PCI-E" />
+                <entry title="Slot Usage" value="In Use" />
+                <entry title="Data lanes" value="x1" />
+                <entry title="Slot Designation" value="J6B1" />
+                <entry title="Characteristics" value="3.3V, Shared, PME" />
+                <entry title="Slot Number" value="1" />
+            </section>
+            <section title="Slot PCI-E">
+                <entry title="Slot Type" value="PCI-E" />
+                <entry title="Slot Usage" value="In Use" />
+                <entry title="Data lanes" value="x1" />
+                <entry title="Slot Designation" value="J6D1" />
+                <entry title="Characteristics" value="3.3V, Shared, PME" />
+                <entry title="Slot Number" value="2" />
+            </section>
+            <section title="Slot PCI-E">
+                <entry title="Slot Type" value="PCI-E" />
+                <entry title="Slot Usage" value="In Use" />
+                <entry title="Data lanes" value="x1" />
+                <entry title="Slot Designation" value="J7B1" />
+                <entry title="Characteristics" value="3.3V, Shared, PME" />
+                <entry title="Slot Number" value="3" />
+            </section>
+            <section title="Slot PCI-E">
+                <entry title="Slot Type" value="PCI-E" />
+                <entry title="Slot Usage" value="In Use" />
+                <entry title="Data lanes" value="x1" />
+                <entry title="Slot Designation" value="J8B4" />
+                <entry title="Characteristics" value="3.3V, Shared, PME" />
+                <entry title="Slot Number" value="4" />
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="Graphics" id="5">
+        <section title="Monitor">
+            <entry title="Name" value="T730SH on Intel HD Graphics 630" />
+            <entry title="Current Resolution" value="1024x768 pixels" />
+            <entry title="Work Resolution" value="1024x728 pixels" />
+            <entry title="State" value="Enabled, Primary" />
+            <entry title="Monitor Width" value="1024" />
+            <entry title="Monitor Height" value="768" />
+            <entry title="Monitor BPP" value="32 bits per pixel" />
+            <entry title="Monitor Frequency" value="85 Hz" />
+            <entry title="Device" value="\\.\DISPLAY1\Monitor0" />
+        </section>
+        <section title="Intel HD Graphics 630">
+            <entry title="Manufacturer" value="Intel" />
+            <entry title="Model" value="HD Graphics 630" />
+            <entry title="Device ID" value="8086-5912" />
+            <entry title="Revision" value="5" />
+            <entry title="Subvendor" value="Gigabyte (1458)" />
+            <entry title="Current Performance Level" value="Level 0" />
+            <entry title="Current GPU Clock" value="0 MHz" />
+            <entry title="Driver version" value="21.20.16.4541" />
+            <section title="Count of performance levels : 1">
+                <entry title='Level 1 - &quot;Perf Level 0&quot;' value="" />
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="Storage" id="6">
+        <section title="Hard drives">
+            <section title="WDC WD10EZEX-08WN4A0">
+                <entry title="Manufacturer" value="Western Digital" />
+                <entry title="Heads" value="16" />
+                <entry title="Cylinders" value="121.601" />
+                <entry title="Tracks" value="31.008.255" />
+                <entry title="Sectors" value="1.953.520.065" />
+                <entry title="SATA type" value="SATA-III 6.0Gb/s" />
+                <entry title="Device type" value="Fixed" />
+                <entry title="ATA Standard" value="ACS3" />
+                <entry title="Serial Number" value="WD-WCC6Y2EAK0A5" />
+                <entry title="Firmware Version Number" value="02.01A02" />
+                <entry title="LBA Size" value="48-bit LBA" />
+                <entry title="Power On Count" value="154 times" />
+                <entry title="Power On Time" value="15,6 days" />
+                <entry title="Speed" value="7200 RPM" />
+                <entry title="Features" value="S.M.A.R.T., APM, NCQ" />
+                <entry title="Max. Transfer Mode" value="SATA III 6.0Gb/s" />
+                <entry title="Used Transfer Mode" value="SATA III 6.0Gb/s" />
+                <entry title="Interface" value="SATA" />
+                <entry title="Capacity" value="931 GB" />
+                <entry title="Real size" value="1.000.204.886.016 bytes" />
+                <entry title="RAID Type" value="None" />
+                <section title="S.M.A.R.T">
+                    <entry title="Status" value="Good" />
+                    <entry title="Temperature" value="38 °C" />
+                    <entry title="Temperature Range" value="OK (less than 50 °C)" />
+                    <section title="S.M.A.R.T attributes">
+                        <section title="01">
+                            <entry title="Attribute name" value="Read Error Rate" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="51" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="03">
+                            <entry title="Attribute name" value="Spin-Up Time" />
+                            <entry title="Real value" value="2366 ms" />
+                            <entry title="Current" value="172" />
+                            <entry title="Worst" value="159" />
+                            <entry title="Threshold" value="21" />
+                            <entry title="Raw Value" value="000000093E" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="04">
+                            <entry title="Attribute name" value="Start/Stop Count" />
+                            <entry title="Real value" value="177" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="100" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="00000000B1" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="05">
+                            <entry title="Attribute name" value="Reallocated Sectors Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="140" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="07">
+                            <entry title="Attribute name" value="Seek Error Rate" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="09">
+                            <entry title="Attribute name" value="Power-On Hours (POH)" />
+                            <entry title="Real value" value="15d 15h" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="100" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000177" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="0A">
+                            <entry title="Attribute name" value="Spin Retry Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="100" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="0B">
+                            <entry title="Attribute name" value="Recalibration Retries" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="100" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="0C">
+                            <entry title="Attribute name" value="Device Power Cycle Count" />
+                            <entry title="Real value" value="154" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="100" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="000000009A" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C0">
+                            <entry title="Attribute name" value="Power-off Retract Count" />
+                            <entry title="Real value" value="8" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000008" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C1">
+                            <entry title="Attribute name" value="Load/Unload Cycle Count" />
+                            <entry title="Real value" value="180" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="00000000B4" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C2">
+                            <entry title="Attribute name" value="Temperature" />
+                            <entry title="Real value" value="38 °C" />
+                            <entry title="Current" value="105" />
+                            <entry title="Worst" value="103" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000026" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C4">
+                            <entry title="Attribute name" value="Reallocation Event Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C5">
+                            <entry title="Attribute name" value="Current Pending Sector Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C6">
+                            <entry title="Attribute name" value="Uncorrectable Sector Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="253" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C7">
+                            <entry title="Attribute name" value="UltraDMA CRC Error Count" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="200" />
+                            <entry title="Worst" value="200" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                        <section title="C8">
+                            <entry title="Attribute name" value="Write Error Rate / Multi-Zone Error Rate" />
+                            <entry title="Real value" value="0" />
+                            <entry title="Current" value="100" />
+                            <entry title="Worst" value="253" />
+                            <entry title="Threshold" value="0" />
+                            <entry title="Raw Value" value="0000000000" />
+                            <entry title="Status" value="Good" />
+                        </section>
+                    </section>
+                </section>
+                <section title="Partition 0">
+                    <entry title="Partition ID" value="Disk #0, Partition #0" />
+                    <entry title="File System" value="NTFS" />
+                    <entry title="Volume Serial Number" value="9E6E0E37" />
+                    <entry title="Size" value="449 MB" />
+                    <entry title="Used Space" value="315 MB (70%)" />
+                    <entry title="Free Space" value="134 MB (30%)" />
+                </section>
+                <section title="Partition 1">
+                    <entry title="Partition ID" value="Disk #0, Partition #1" />
+                    <entry title="Size" value="100 MB" />
+                </section>
+                <section title="Partition 2">
+                    <entry title="Partition ID" value="Disk #0, Partition #2" />
+                    <entry title="Disk Letter" value="C:" />
+                    <entry title="File System" value="NTFS" />
+                    <entry title="Volume Serial Number" value="2C72060A" />
+                    <entry title="Size" value="930 GB" />
+                    <entry title="Used Space" value="118 GB (12%)" />
+                    <entry title="Free Space" value="812 GB (88%)" />
+                </section>
+            </section>
+        </section>
+        <section title="Flash drives">
+            <section title="Generic Mass-Storage USB Device">
+                <entry title="Interface" value="USB" />
+                <entry title="Capacity" value="14,5 GB" />
+                <entry title="Real size" value="15.560.867.840 bytes" />
+                <entry title="RAID Type" value="None" />
+                <section title="S.M.A.R.T">
+                    <entry title="S.M.A.R.T not supported" value="" />
+                </section>
+                <section title="Partition 0">
+                    <entry title="Partition ID" value="Disk #1, Partition #0" />
+                    <entry title="Disk Letter" value="E:" />
+                    <entry title="File System" value="FAT32" />
+                    <entry title="Volume Serial Number" value="FCE5DB4B" />
+                    <entry title="Size" value="14,5 GB" />
+                    <entry title="Used Space" value="14,4 GB (99%)" />
+                    <entry title="Free Space" value="35,5 MB (1%)" />
+                </section>
+            </section>
+            <section title="Verbatim STORE N GO USB Device">
+                <entry title="Interface" value="USB" />
+                <entry title="Capacity" value="7,22 GB" />
+                <entry title="Real size" value="7.751.073.792 bytes" />
+                <entry title="RAID Type" value="None" />
+                <section title="S.M.A.R.T">
+                    <entry title="S.M.A.R.T not supported" value="" />
+                </section>
+                <section title="Partition 0">
+                    <entry title="Partition ID" value="Disk #2, Partition #0" />
+                    <entry title="Disk Letter" value="F:" />
+                    <entry title="File System" value="NTFS" />
+                    <entry title="Volume Serial Number" value="F8C669FD" />
+                    <entry title="Size" value="7,22 GB" />
+                    <entry title="Used Space" value="3,96 GB (54%)" />
+                    <entry title="Free Space" value="3,26 GB (46%)" />
+                </section>
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="Optical Drives" id="7">
+        <section title="ATAPI iHAS122   F">
+            <entry title="Media Type" value="DVD Writer" />
+            <entry title="Name" value="ATAPI iHAS122 F" />
+            <entry title="Availability" value="Running/Full Power" />
+            <entry title="Capabilities" value="Random Access, Supports Writing, Supports Removable Media" />
+            <entry title="Read capabilities" value="CD-R, CD-RW, CD-ROM, DVD-ROM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL" />
+            <entry title="Write capabilities" value="CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL" />
+            <entry title="Config Manager Error Code" value="Device is working properly" />
+            <entry title="Config Manager User Config" value="FALSE" />
+            <entry title="Drive" value="D:" />
+            <entry title="Media Loaded" value="FALSE" />
+            <entry title="SCSI Bus" value="0" />
+            <entry title="SCSI Logical Unit" value="0" />
+            <entry title="SCSI Port" value="0" />
+            <entry title="SCSI Target Id" value="1" />
+            <entry title="Status" value="OK" />
+        </section>
+    </mainsection>
+    <mainsection title="Audio" id="8">
+        <section title="Sound Cards">
+            <entry title="Realtek High Definition Audio" value="" />
+            <entry title="Sonido Intel para pantallas" value="" />
+        </section>
+        <section title="Playback Devices">
+            <entry title="Realtek Digital Output (Realtek High Definition Audio)" value="" />
+            <entry title="Altavoces (Realtek High Definition Audio)" value="(default)" />
+        </section>
+        <section title="Recording Device">
+            <entry title="Micrófono (Realtek High Definition Audio)" value="" />
+        </section>
+        <section title="Speaker Configuration">
+            <entry title="Speaker type" value="Stereo" />
+        </section>
+    </mainsection>
+    <mainsection title="Peripherals" id="9">
+        <section title="Dispositivo de teclado HID">
+            <entry title="Device Kind" value="Keyboard" />
+            <entry title="Device Name" value="Dispositivo de teclado HID" />
+            <entry title="Vendor" value="Unknown" />
+            <entry title="Location" value="Dispositivo de entrada USB" />
+            <section title="Driver">
+                <entry title="Date" value="6-21-2006" />
+                <entry title="Version" value="10.0.10240.16384" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\kbdhid.sys" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\kbdclass.sys" />
+            </section>
+        </section>
+        <section title="Mouse compatible con HID">
+            <entry title="Device Kind" value="Mouse" />
+            <entry title="Device Name" value="Mouse compatible con HID" />
+            <entry title="Vendor" value="Unknown" />
+            <entry title="Location" value="Dispositivo de entrada USB" />
+            <section title="Driver">
+                <entry title="Date" value="6-21-2006" />
+                <entry title="Version" value="10.0.10240.16384" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\mouhid.sys" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\mouclass.sys" />
+            </section>
+        </section>
+        <section title="STORE N GO      ">
+            <entry title="Device Kind" value="Portable Device" />
+            <entry title="Device Name" value="STORE N GO" />
+            <entry title="Vendor" value="VERBATIM" />
+            <entry title="Comment" value="BLACK" />
+            <entry title="Location" value="Volumen genérico" />
+            <section title="Driver">
+                <entry title="Date" value="6-21-2006" />
+                <entry title="Version" value="10.0.10240.16384" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\WUDFRd.sys" />
+            </section>
+        </section>
+        <section title="Mass-Storage    ">
+            <entry title="Device Kind" value="Portable Device" />
+            <entry title="Device Name" value="Mass-Storage" />
+            <entry title="Vendor" value="GENERIC" />
+            <entry title="Comment" value="EOS_DIGITAL" />
+            <entry title="Location" value="Volumen genérico" />
+            <section title="Driver">
+                <entry title="Date" value="6-21-2006" />
+                <entry title="Version" value="10.0.10240.16384" />
+                <entry title="File" value="C:\Windows\system32\DRIVERS\WUDFRd.sys" />
+            </section>
+        </section>
+        <section title="Printers">
+            <section title="Fax">
+                <entry title="Printer Port" value="SHRFAX:" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="200 * 200 dpi Monochrome" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="Microsoft Shared Fax Driver (v4.00)" />
+                    <entry title="Driver Path" value="C:\Windows\system32\spool\DRIVERS\x64\3\FXSDRV.DLL" />
+                </section>
+            </section>
+            <section title="Hewlett-Packard HP LaserJet M1005">
+                <entry title="Printer Port" value="USB002" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Monochrome" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="HP LaserJet M1005 Class Driver (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\mxdwdrv.dll" />
+                </section>
+            </section>
+            <section title="KONICA MINOLTA pagepro 5650 PCL">
+                <entry title="Printer Port" value="1280100.82.118" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Monochrome" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="KONICA MINOLTA pagepro 5650 PCL (v1.00)" />
+                    <entry title="Driver Path" value="C:\Windows\system32\spool\DRIVERS\x64\3\KOBJBJ_G.DLL" />
+                </section>
+            </section>
+            <section title="KONICA MINOLTA PS BW Laser Class Driver">
+                <entry title="Printer Port" value="128.100.10.233" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Monochrome" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="KONICA MINOLTA PS BW Laser Class Driver (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\PSCRIPT5.DLL" />
+                </section>
+            </section>
+            <section title="KONICA MINOLTA PS BW Laser Class Driver (Copiar 1) (Default Printer)">
+                <entry title="Printer Port" value="128.100.91.1" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Monochrome" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="KONICA MINOLTA PS BW Laser Class Driver (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\PSCRIPT5.DLL" />
+                </section>
+            </section>
+            <section title="Kyocera FS-1350DN">
+                <entry title="Printer Port" value="USB001" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Color" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="Kyocera FS-1350DN KX (v1.03)" />
+                    <entry title="Driver Path" value="C:\Windows\system32\spool\DRIVERS\x64\3\KMUC60RQ.DLL" />
+                </section>
+            </section>
+            <section title="Microsoft Print to PDF">
+                <entry title="Printer Port" value="PORTPROMPT:" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Color" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="Microsoft Print To PDF (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\mxdwdrv.dll" />
+                </section>
+            </section>
+            <section title="Microsoft XPS Document Writer">
+                <entry title="Printer Port" value="PORTPROMPT:" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Color" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="Microsoft XPS Document Writer v4 (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\mxdwdrv.dll" />
+                </section>
+            </section>
+            <section title="Send To OneNote 2016">
+                <entry title="Printer Port" value="nul:" />
+                <entry title="Print Processor" value="winprint" />
+                <entry title="Availability" value="Always" />
+                <entry title="Priority" value="1" />
+                <entry title="Duplex" value="None" />
+                <entry title="Print Quality" value="600 * 600 dpi Color" />
+                <entry title="Status" value="Unknown" />
+                <section title="Driver">
+                    <entry title="Driver Name" value="Send to Microsoft OneNote 16 Driver (v6.03)" />
+                    <entry title="Driver Path" value="C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_08e757f7c012ea27\Amd64\mxdwdrv.dll" />
+                </section>
+            </section>
+        </section>
+    </mainsection>
+    <mainsection title="Network" id="10">
+        <entry title="You are connected to the internet" value="" />
+        <entry title="Connected through" value="Realtek PCIe GBE Family Controller" />
+        <entry title="IP Address" value="128.100.10.95" />
+        <entry title="Subnet mask" value="255.255.0.0" />
+        <entry title="Gateway server" value="128.100.10.254" />
+        <entry title="Preferred DNS server" value="128.100.10.254" />
+        <entry title="DHCP" value="Disabled" />
+        <entry title="External IP Address" value="168.226.218.253" />
+        <entry title="Adapter Type" value="Ethernet" />
+        <entry title="NetBIOS over TCP/IP" value="Enabled via DHCP" />
+        <entry title="NETBIOS Node Type" value="Hybrid node" />
+        <entry title="Link Speed" value="2.4 KBps" />
+        <section title="Computer Name">
+            <entry title="NetBIOS Name" value="DESKTOP-G665V9H" />
+            <entry title="DNS Name" value="DESKTOP-G665V9H" />
+            <entry title="Membership" value="Part of workgroup" />
+            <entry title="Workgroup" value="WORKGROUP" />
+        </section>
+        <section title="Remote Desktop">
+            <entry title="Disabled" value="" />
+            <section title="Console">
+                <entry title="State" value="Active" />
+                <entry title="Domain" value="DESKTOP-G665V9H" />
+            </section>
+        </section>
+        <section title="WinInet Info">
+            <entry value="Conexión LAN" />
+            <entry value="Local system has a valid connection to the Internet, but it might or might not be currently connected" />
+            <entry value="Local system uses a local area network to connect to the Internet" />
+            <entry value="Local system uses a proxy server to connect to the Internet" />
+            <entry value="Local system has RAS to connect to the Internet" />
+        </section>
+        <section title="Wi-Fi Info">
+            <entry value="Wi-Fi not enabled" />
+        </section>
+        <section title="WinHTTPInfo">
+            <entry title="WinHTTPSessionProxyType" value="No proxy" />
+            <entry title="Session Proxy" value="" />
+            <entry title="Session Proxy Bypass" value="" />
+            <entry title="Connect Retries" value="5" />
+            <entry title="Connect Timeout (ms)" value="60.000" />
+            <entry title="HTTP Version" value="HTTP 1.1" />
+            <entry title="Max Connects Per 1.0 Servers" value="INFINITE" />
+            <entry title="Max Connects Per Servers" value="INFINITE" />
+            <entry title="Max HTTP automatic redirects" value="10" />
+            <entry title="Max HTTP status continue" value="10" />
+            <entry title="Send Timeout (ms)" value="30.000" />
+            <entry title="IEProxy Auto Detect" value="No" />
+            <entry title="IEProxy Auto Config" value="" />
+            <entry title="IEProxy" value="128.100.10.254:3128" />
+            <entry title="IEProxy Bypass" value="" />
+            <entry title="Default Proxy Config Access Type" value="No proxy" />
+            <entry title="Default Config Proxy" value="" />
+            <entry title="Default Config Proxy Bypass" value="" />
+        </section>
+        <section title="Sharing and Discovery">
+            <entry title="Network Discovery" value="Enabled" />
+            <entry title="File and Printer Sharing" value="Enabled" />
+            <entry title="File and printer sharing service" value="Enabled" />
+            <entry title="Simple File Sharing" value="Enabled" />
+            <entry title="Administrative Shares" value="Enabled" />
+            <entry title="Acceso a redes: modelo de seguridad y uso compartido para cuentas locales" value="Clásico: usuarios locales se autentican con credenciales propias" />
+        </section>
+        <section title="Adapters List">
+            <section title="Enabled">
+                <section title="Realtek PCIe GBE Family Controller">
+                    <entry title="Connection Name" value="Ethernet" />
+                    <entry title="NetBIOS over TCPIP" value="Yes" />
+                    <entry title="DHCP enabled" value="No" />
+                    <entry title="MAC Address" value="E0-D5-5E-33-11-C8" />
+                    <entry title="IP Address" value="128.100.10.95" />
+                    <entry title="Subnet mask" value="255.255.0.0" />
+                    <entry title="Gateway server" value="128.100.10.254" />
+                    <entry title="DNS Server" value="128.100.10.254" />
+                </section>
+            </section>
+        </section>
+        <section title="Network Shares">
+            <entry title="No network shares" value="" />
+        </section>
+        <section title="Current TCP Connections">
+            <section title="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (5640)">
+                <entry title="Local 128.100.10.95:52736" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:51465" value="FIN-WAIT-2 Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52853" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52852" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52851" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52753" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+            </section>
+            <section title="lsass.exe (720)">
+                <entry title="Local 0.0.0.0:49412" value="LISTEN" />
+            </section>
+            <section title="QHActiveDefense.exe (1372)">
+                <entry title="Local 128.100.10.95:52844" value="ESTABLISHED Remote 104.192.108.78:80  (HTTP)" />
+            </section>
+            <section title="services.exe (700)">
+                <entry title="Local 0.0.0.0:49443" value="LISTEN" />
+            </section>
+            <section title="spoolsv.exe (1580)">
+                <entry title="Local 0.0.0.0:49411" value="LISTEN" />
+            </section>
+            <section title="svchost.exe (1060)">
+                <entry title="Local 0.0.0.0:49409" value="LISTEN" />
+            </section>
+            <section title="svchost.exe (1132)">
+                <entry title="Local 128.100.10.95:52875" value="ESTABLISHED Remote 128.100.82.97:2869 " />
+            </section>
+            <section title="svchost.exe (320)">
+                <entry title="Local 0.0.0.0:49410" value="LISTEN" />
+                <entry title="Local 128.100.10.95:52854" value="ESTABLISHED Remote 128.100.10.254:3128 " />
+            </section>
+            <section title="svchost.exe (864)">
+                <entry title="Local 0.0.0.0:135 (DCE)" value="LISTEN" />
+            </section>
+            <section title="System Process">
+                <entry title="Local 128.100.10.95:52849" value="TIME-WAIT Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52871" value="TIME-WAIT Remote 128.100.32.2:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52868" value="TIME-WAIT Remote 128.100.70.5:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52855" value="TIME-WAIT Remote 104.192.108.114:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52902" value="TIME-WAIT Remote 128.100.10.17:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52874" value="TIME-WAIT Remote 128.100.82.4:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52901" value="TIME-WAIT Remote 128.100.10.135:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52900" value="TIME-WAIT Remote 128.100.82.132:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52899" value="TIME-WAIT Remote 128.100.82.132:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52898" value="TIME-WAIT Remote 128.100.82.110:5357 " />
+                <entry title="Local 128.100.10.95:52893" value="TIME-WAIT Remote 128.100.35.194:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:2869" value="TIME-WAIT Remote 128.100.82.5:34775 " />
+                <entry title="Local 128.100.10.95:52892" value="TIME-WAIT Remote 128.100.35.194:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52891" value="TIME-WAIT Remote 128.100.82.132:5357 " />
+                <entry title="Local 128.100.10.95:52884" value="TIME-WAIT Remote 128.100.11.145:5357 " />
+                <entry title="Local 128.100.10.95:52821" value="TIME-WAIT Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52873" value="TIME-WAIT Remote 128.100.31.3:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52845" value="TIME-WAIT Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52846" value="TIME-WAIT Remote 128.100.10.254:3128 " />
+                <entry title="Local 128.100.10.95:52904" value="TIME-WAIT Remote 128.100.82.122:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52906" value="TIME-WAIT Remote 128.100.82.80:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52908" value="TIME-WAIT Remote 104.192.108.114:80  (HTTP)" />
+                <entry title="Local 128.100.10.95:52909" value="TIME-WAIT Remote 128.100.10.110:139  (NetBIOS session service)" />
+            </section>
+            <section title="System Process">
+                <entry title="Local 128.100.10.95:52905" value="ESTABLISHED Remote 128.100.82.122:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:52903" value="ESTABLISHED Remote 128.100.10.17:139  (NetBIOS session service)" />
+                <entry title="Local 128.100.10.95:139 (NetBIOS session service)" value="LISTEN" />
+                <entry title="Local 0.0.0.0:445 (Windows shares)" value="LISTEN" />
+                <entry title="Local 128.100.10.95:52907" value="ESTABLISHED Remote 128.100.82.80:139  (NetBIOS session service)" />
+                <entry title="Local 0.0.0.0:2869" value="LISTEN" />
+                <entry title="Local 0.0.0.0:5357" value="LISTEN" />
+                <entry title="Local 128.100.10.95:52910" value="ESTABLISHED Remote 128.100.10.110:139  (NetBIOS session service)" />
+            </section>
+            <section title="wininit.exe (572)">
+                <entry title="Local 0.0.0.0:49408" value="LISTEN" />
+            </section>
+        </section>
+    </mainsection>
+</speccydata>
