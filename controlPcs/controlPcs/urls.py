@@ -16,11 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import url
-from ctrPCsMunicipioRW.views import hola, subirArchivo, inicio
+from ctrPCsMunicipioRW.views import hola, subirArchivo, inicio,bajarSpeccy
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^hola/$',hola),
     url(r'^servTec/$', inicio,name="inicio"),
     url(r'^subir/$', subirArchivo,name="subir"),
+    url(r'^speccy/$', bajarSpeccy,name="speccy"),
 ]

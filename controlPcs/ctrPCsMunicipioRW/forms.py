@@ -10,10 +10,9 @@ class FormSubirArchivo(forms.Form):
             "id":"IDusuario",
         }
     ))
-    sector = forms.CharField(max_length=50, widget=forms.Select(
+    sector = forms.CharField(max_length=50, widget=forms.TextInput(
         attrs={
             "class": "form-control",
-
             "placeholder": "Ingrese el sector lugar de trabajo.",
             "id" : "IDsector",
 
@@ -30,7 +29,8 @@ class FormSubirArchivo(forms.Form):
 
     ))
 
-    filename = forms.CharField(label="Nombre Archivo",max_length=50, widget=forms.TextInput(
+    """
+    filename = forms.CharField(label="Nombre Archivo",required=False, max_length=50, widget=forms.TextInput(
         attrs={
             "class": "form-control",
             "placeholder": "Ingrese el nombre de archivo.",
@@ -38,7 +38,8 @@ class FormSubirArchivo(forms.Form):
         }
 
     ))
-
+    """
+    
     archivo = forms.FileField(widget=forms.FileInput(
         attrs={
             "class" : "form-control-file",
