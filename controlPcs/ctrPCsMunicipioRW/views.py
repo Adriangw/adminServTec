@@ -5,17 +5,10 @@ from django.template.loader import get_template
 from django.shortcuts import render, redirect
 from ctrPCsMunicipioRW.forms import FormSubirArchivo
 from ctrPCsMunicipioRW.models import Pc
+from xml.dom import minidom
 import datetime
+from ctrPCsMunicipioRW.leerxml import obtenerDataPC
 
-HTML = """
-    <html>
-        <body>
-            <h1>HOLA MUNDO!</h1>
-        </body>
-    </html>
-"""
-def hola(request):
-    return HttpResponse(HTML)
 
 def inicio(request):
     return render(request, 'inicio.html')
@@ -24,8 +17,9 @@ def inicio(request):
 def bajarSpeccy(request): 
      #datos_imagen = open("/home/adrian/djangoProjects/adminServTec/controlPcs/speccy/imagen.jpeg", "rb").read() 
      #return HttpResponse(datos_imagen, mimetype="imagen/jpeg") 
-     response = FileResponse(open('/home/adrian/djangoProjects/adminServTec/controlPcs/speccy/Speccy.exe', 'rb'))
-     response['Content-Type'] = 'application/octet-stream'
+     my_data = open('/home/adrian/djangoProjects/adminServTec/controlPcs/speccy/Speccy.exe', 'rb')
+     response = HttpResponse(my_data, content_type='application/vnd.microsoft.portable-executable')
+     response['Content-Disposition'] = 'attachment; filename="speccy.exe"'
      return response
 
 def subirArchivo(request):
@@ -33,6 +27,7 @@ def subirArchivo(request):
     if request.method=='POST':
         form = FormSubirArchivo(request.POST, request.FILES)
         if form.is_valid():
+            datosPc={}
             newPC = Pc(
                 usuario = request.POST['usuario'],
                 sector = request.POST['sector'],
@@ -41,6 +36,11 @@ def subirArchivo(request):
             ultimo_id = Pc.objects.latest('id')#Se obtiene el ultimo objeto cargado en la base de datos.
             newPC.codigo = "st-" + str(ultimo_id.id + 1)#Se genera un codigo automaticamente para el equipo en base al id
             newPC.save(form)
+            newPc.codigo
+            datosPc=obtenerDataPC(newPc.codigo)
+
+            print("--->",datosPc['CPU'])
+
             return redirect("subir")
     else:
         form = FormSubirArchivo()
