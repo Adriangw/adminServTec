@@ -29,18 +29,35 @@ def subirArchivo(request):
         form = FormSubirArchivo(request.POST, request.FILES)
         if form.is_valid():
             datosPc={}
+
             newPC = Pc(
                 usuario = request.POST['usuario'],
                 sector = request.POST['sector'],
                 archivo = request.FILES['archivo'],
             )
-            ultimo_id = Pc.objects.latest('id')#Se obtiene el ultimo objeto cargado en la base de datos.
-            newPC.codigo = "st-" + str(ultimo_id.id + 1)#Se genera un codigo automaticamente para el equipo en base al id
-            newPC.save(form)
-            newPc.codigo
-            datosPc=obtenerDataPC(newPc.codigo)
 
-            print("--->",datosPc['CPU'])
+            ultimo_id = Pc.objects.latest('id') #Se obtiene el ultimo objeto cargado en la base de datos.
+            codigoGen = "st-" + str(ultimo_id.id + 1) #Se genera un codigo automaticamente para el equipo en base al id
+            newPC.codigo = codigoGen
+
+            nombreArchivoDataPc = str(newPC.archivo)
+            newPC.save(form)
+            datosPc=obtenerDataPC(nombreArchivoDataPc)
+            pcActual=Pc.objects.get(codigo=codigoGen)
+
+            pcActual.so = datosPc['Operating System']
+            pcActual.cpu = datosPc['CPU']
+            pcActual.ram = datosPc['RAM']
+            pcActual.madre = datosPc['Motherboard']
+            pcActual.graf = datosPc['Graphics']
+            pcActual.disk = datosPc['Storage']
+            pcActual.optic = datosPc['Optical Drives']
+            pcActual.audio = datosPc['Audio']
+            pcActual.mac = datosPc['Adapters List']
+            pcActual.name = datosPc['Computer Name']
+
+
+            pcActual.save()
 
             return redirect("subir")
     else:

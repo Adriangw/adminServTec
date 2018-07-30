@@ -1,8 +1,9 @@
 from xml.dom import minidom
+import os
     
 
-def obtenerDataPC(self,nombreArchivo):
-    xmlstock = minidom.parse("/home/adrian/djangoProjects/adminServTec/controlPcs" + nombreArchivo)
+def obtenerDataPC(nombreArchivo):
+    xmlstock = minidom.parse(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/documents/' + nombreArchivo)
     mainsections = xmlstock.getElementsByTagName("mainsection")
     
     dataPc={}
