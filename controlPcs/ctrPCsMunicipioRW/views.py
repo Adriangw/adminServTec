@@ -5,6 +5,7 @@ from django.template.loader import get_template
 from django.shortcuts import render, redirect
 from ctrPCsMunicipioRW.forms import FormSubirArchivo
 from ctrPCsMunicipioRW.models import Pc
+import os
 from xml.dom import minidom
 import datetime
 from ctrPCsMunicipioRW.leerxml import obtenerDataPC
@@ -17,7 +18,7 @@ def inicio(request):
 def bajarSpeccy(request): 
      #datos_imagen = open("/home/adrian/djangoProjects/adminServTec/controlPcs/speccy/imagen.jpeg", "rb").read() 
      #return HttpResponse(datos_imagen, mimetype="imagen/jpeg") 
-     my_data = open('/home/adrian/djangoProjects/adminServTec/controlPcs/speccy/Speccy.exe', 'rb')
+     my_data = open(os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/speccy/Speccy.exe', 'rb')
      response = HttpResponse(my_data, content_type='application/vnd.microsoft.portable-executable')
      response['Content-Disposition'] = 'attachment; filename="speccy.exe"'
      return response

@@ -55,7 +55,7 @@ ROOT_URLCONF = 'controlPcs.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/home/adrian/djangoProjects/adminServTec/controlPcs/controlPcs/templates'],
+        'DIRS': [BASE_DIR + '/controlPcs/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
