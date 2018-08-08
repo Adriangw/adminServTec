@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+
     <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
     <link href="{% static 'vendor/font-awesome/css/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -10,12 +11,14 @@
     <link href="{% static 'vendor/magnific-popup/magnific-popup.css' %}" rel="stylesheet">
     <link href="{% static 'css/creative.min.css' %}" rel="stylesheet">
 
+    <!-- AUTOCOMPLET-->
+    <link rel="stylesheet" href="{% static 'css/jquery.auto-complete.css' %}">
+    <!--FIN AUTOCOMPLET-->	
+
     <meta charset="UTF-8">
     <title>{% block title  %} {% endblock %}</title>
+
 </head>
-
-<!--BOOTSTRAP CORE CSS-->
-
 
 
 <body id="page-top">
@@ -48,14 +51,7 @@
     </nav>
     {% endblock %}
 
-
-
-
     {% block content %} {% endblock %}
-
-
-
-
 
     <!-- Bootstrap core JavaScript -->
     <script src="{% static 'vendor/jquery/jquery.min.js' %}"></script>
@@ -68,5 +64,28 @@
 
     <!-- Custom scripts for this template -->
     <script src="{% static 'js/creative.min.js' %}"></script>
+
+    <!--autocomplet-->
+    <script src="{% static 'js/jquery.auto-complete.js' %}"></script>
+
+    <script>
+        $(function(){
+            $('#hero-demo').autoComplete({
+                minChars: 1,
+                source: function(term, suggest){
+                    term = term.toLowerCase();
+                    var choices = ['Servicio Tecnico','Computos'];
+                    var suggestions = [];
+                    for (i=0;i<choices.length;i++)
+                        if (~choices[i].toLowerCase().indexOf(term)) suggestions.push(choices[i]);
+                    suggest(suggestions);
+                }
+            });
+            
+        });
+    </script>
+    <!--fin autocomplet-->
+	
+
 </body>
 </html>

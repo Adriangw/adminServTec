@@ -1,4 +1,5 @@
 from django import forms
+from ctrPCsMunicipioRW.models import SECTOR
 
 class FormSubirArchivo(forms.Form):
     usuario = forms.CharField(max_length=30, widget=forms.TextInput(
@@ -10,15 +11,20 @@ class FormSubirArchivo(forms.Form):
             "id":"IDusuario",
         }
     ))
+
+    secretaria = forms.ChoiceField(choices = SECTOR, label="Secretaria",initial=1,widget=forms.Select(attrs={"class":"form-control",}),required=True)
+
+  
+    
     sector = forms.CharField(max_length=50, widget=forms.TextInput(
         attrs={
-            "class": "form-control",
+            "class": "form-control pure-form",
+            "onsubmit" : "$('#hero-demo').blur();return false;",
             "placeholder": "Ingrese el sector lugar de trabajo.",
-            "id" : "IDsector",
-
+            "id" : "hero-demo",
+            "name":"q",
         }
-
-    ))
+    ))	
 
     fecha = forms.CharField(max_length=10, widget=forms.TextInput(
         attrs={
@@ -29,17 +35,6 @@ class FormSubirArchivo(forms.Form):
 
     ))
 
-    """
-    filename = forms.CharField(label="Nombre Archivo",required=False, max_length=50, widget=forms.TextInput(
-        attrs={
-            "class": "form-control",
-            "placeholder": "Ingrese el nombre de archivo.",
-            "id" : "IDfilename",
-        }
-
-    ))
-    """
-    
     archivo = forms.FileField(widget=forms.FileInput(
         attrs={
             "class" : "form-control-file",

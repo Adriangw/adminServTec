@@ -29,7 +29,6 @@
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading text-white">Ingresar Datos Para Relevamiento</h2>
-
             <div class="container">
                 <form action="" method="post" enctype="multipart/form-data">{% csrf_token %}
 
@@ -38,18 +37,12 @@
 
                 </form>
             </div>
-
             <hr class="light my-4">
             <p class="text-faded mb-4">Si se trata de una computadora los datos seran recopilados con speccy, este genera un archivo xml que debe ser subido.</p>
             <a class="btn btn-light btn-xl js-scroll-trigger" href="{% url 'inicio' %}">VOLVER</a>
           </div>
-
-
-
         </div>
       </div>
     </section>
-
-
 
 {% endblock %}

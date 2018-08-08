@@ -4,12 +4,11 @@ from django.http import FileResponse
 from django.template.loader import get_template
 from django.shortcuts import render, redirect
 from ctrPCsMunicipioRW.forms import FormSubirArchivo
-from ctrPCsMunicipioRW.models import Pc
+from ctrPCsMunicipioRW.models import Pc,Sector
 import os
 from xml.dom import minidom
 import datetime
 from ctrPCsMunicipioRW.leerxml import obtenerDataPC
-
 
 def inicio(request):
     return render(request, 'inicio.html')
@@ -56,12 +55,13 @@ def subirArchivo(request):
             pcActual.mac = datosPc['Adapters List']
             pcActual.name = datosPc['Computer Name']
 
-
             pcActual.save()
 
             return redirect("subir")
     else:
         form = FormSubirArchivo()
+
+
 
     return render(request, 'subirArchivo.html',{'form':form})
 
