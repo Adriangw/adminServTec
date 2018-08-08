@@ -61,7 +61,10 @@ def subirArchivo(request):
     else:
         form = FormSubirArchivo()
 
+    sectores = Sector.objects.all()
+    sectoresStrings=[]
+    for sector in sectores:
+        sectoresStrings.append(str(sector))
 
-
-    return render(request, 'subirArchivo.html',{'form':form})
+    return render(request, 'subirArchivo.html',{'form':form,'sectores':sectoresStrings})
 
